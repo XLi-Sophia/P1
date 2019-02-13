@@ -3,6 +3,7 @@
 <head>
    <title>CSCI E-15 Project 1</title>
    <meta charset="utf-8">
+   <link rel="stylesheet" type="text/css" href="css/p1.css">
 </head>
 <body>
    <h1>My name is Xuefen Li</h1>
