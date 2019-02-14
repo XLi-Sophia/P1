@@ -7,7 +7,7 @@
    <link rel="stylesheet" type="text/css" href="/css/p1.css">
 </head>
 <body background="/images/hawaii.jpg">
-      <img src='/images/me.jpg'>
+      <img src="/images/me.jpg">
       <h1>Hello CSCI E-15 Spring 19</h1>
    
       <h1>Bio</h1>
