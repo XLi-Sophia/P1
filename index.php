@@ -4,15 +4,12 @@
 <head>
    <title>CSCI E-15 Project 1</title>
    <meta charset="utf-8">
-   <link rel="stylesheet" type="text/css" href="css/p1.css">
+   <link rel="stylesheet" type="text/css" href="/css/p1.css">
 </head>
 <body background="/images/hawaii.jpg">
-   <div id="name">
       <img src='/images/me.jpg'>
       <h1>Hello CSCI E-15 Spring 19</h1>
-   </div>
    
-   <div id="bio">
       <h1>Bio</h1>
       <p>
          My name is <u>Xuefen Li</u>. My nick name is Sophia. I am from Honolulu, Hawaii. Currently, I am working as Web Application Developer living in Northern California. As for my educational background. I graduated with a B.S. in Computer Science in 2015. For the past 2 years, I attended Naval Postgraduate School prior to CSCI E-15.   	
@@ -22,6 +19,5 @@
       <p>
           <?=$quote ?> 	
       </p>
-   </div>
 </body>
 </html>
